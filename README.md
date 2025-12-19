@@ -1,1 +1,4 @@
 # Machine-Learning
+## House Price Prediction 
+
+The scope of this study is to compare extensively the performance metrics of various machine learning methods on housing datasets. This study is expected to carry out in accordance with KDD, Data Mining methodology. The datasets undergo rigorous data preprocessing to omit discrepancies, anomalies and patterns. We split the data into train and test to apply different regression models like Decision Tree Regressor, Random Forest Regressor, Extreme Gradient Boosting Regressor, Linear Regression, Extra Tree Regressor, Ridge Linear Regression, Elastic Net Regression and Lasso Regression. They are implemented on different housing datasets to draw inferences on the features involved in Price Prediction of houses in Melbourne, Germany and Beijing. We will evaluate the accuracy of models to conclude on choosing the model with best fit for each dataset.
